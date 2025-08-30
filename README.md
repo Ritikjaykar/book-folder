@@ -22,7 +22,7 @@ cd book-finder
 npm install
 
 # Start development server
-npm start
+npm run dev
 
 # Build for production
 npm run build# book-folder
